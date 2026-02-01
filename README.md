@@ -1,6 +1,6 @@
 # 3 в ряд (Match-3 game)
 
-[🎮 **Играть в демо-версию**](https://dimasqic.github.io) 
+[🎮 **Играть в демо-версию**](https://dimasqic.github.io/3-v/) 
 
 ---
 
